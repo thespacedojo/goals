@@ -1,3 +1,7 @@
+# SpaceDojo
+
+Vision Statement: To foster a world where anyone can use technology, to improve lives, by teaching anyone that wants to learn.
+
 # Goals
 
 These are quaterly high level goals for Spacedojo. 
